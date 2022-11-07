@@ -2,12 +2,11 @@
 #include <stdlib.h>
 
 
-:
 /**
- *  _strdup - copies a given string into a newly allocated space in memory
- *  @str: string to be copied
- *  *
- *  Return: pointer to new allocated string
+ * _strdup - copies a given string into a newly allocated space in memory
+ * @str: string to be copied
+ *
+ * Return: pointer to new allocated string
  */
 
 char *_strdup(char *str)
