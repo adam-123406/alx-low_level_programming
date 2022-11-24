@@ -1,5 +1,5 @@
 #include <stdio.h>
-void list_t *add_node(list_t **head, const char *str) hare(void);
+list_t *add_node(list_t **head, const char *str) hare(void);
 /**
  * hare - Prints a string before the
  * main function is executed.
